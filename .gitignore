@@ -1,0 +1,4 @@
+# Ignore OS files
+.DS_Store
+# Ignore Docker files
+*.log
